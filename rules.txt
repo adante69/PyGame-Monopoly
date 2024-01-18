@@ -1,0 +1,36 @@
+The procedure of the game:
+
+- Players move their chips according to the results of the dice roll.
+
+- Along the way, they must buy companies and pay rent if they find themselves on someone else's field.
+
+- Players can buy companies if it is not owned by another player.
+
+- Owning all companies of the same color allows you to build subdecks.
+
+- When the appropriate squares are hit, the effect of the "Chance" card is applied to the player.
+
+- List of 'Chance' cards : 'Participate in teleportation testing', 'Accidentally dropped dice. The search will take a full run',
+
+  'hits a sale and spends 1k there', 'arrested for money laundering and sent to prison',
+
+   'wins first place in a beauty contest and gets 1,500 for it', 'wins 2,000 in the lottery'.
+
+- Players can get into tax or penalty cells where they have to pay money to the bank.
+
+- In the bottom right hand corner is the 'Casino' box. Pressing it, the player bets 1,000, wins 3,000, and loses 1,000 if he loses. 
+
+- For each new round, the player receives $2000
+
+- If the player hits the starting box, he will get another $1000
+
+- If the player enters the police box (bottom left corner), he will be sent to jail for the next 3 turns.
+
+- Players can sell their companies to raise money in a pinch.
+
+- A player who goes bankrupt is out of the game.
+
+- Building affiliates increases the rent for passing through your property.
+
+- The last remaining player is considered the winner.
+
